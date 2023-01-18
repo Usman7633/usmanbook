@@ -39,9 +39,8 @@ https://smartbook.cyclic.app/
 
 
 ## Screenshots
-
-![1](https://user-images.githubusercontent.com/106025042/212144889-bb0c3c7d-9cc4-47d1-9e1e-eebc450260c7.jpg)
-![10](https://user-images.githubusercontent.com/106025042/212144999-8401717b-da64-4c78-ba13-840fb1b95208.jpg)
+https://raw.githubusercontent.com/easyshopping1/starter-express-api/main/Untitled%20design%20(24).png
+![10](https://raw.githubusercontent.com/easyshopping1/starter-express-api/main/Untitled%20design%20(24).png)
 ![2](https://user-images.githubusercontent.com/106025042/212144922-bb1a4a51-f90e-40a3-8706-122dcaff0787.jpg)
 ![3](https://user-images.githubusercontent.com/106025042/212144933-2e66373b-7b37-4637-a682-ceedfa5465e9.jpg)
 ![4](https://user-images.githubusercontent.com/106025042/212144945-bc058a01-7053-4781-be9f-e7e99396e49e.jpg)
