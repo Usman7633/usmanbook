@@ -26,7 +26,10 @@ const server= app.listen(process.env.PORT,()=>{
 })
 
 
-
+//Routes go here
+app.all('*', (req,res) => {
+    res.json({"every thing":"is awesome"})
+})
 
 process.on('unhandledRejection', (err) => {
   console.log('UNHANDLED REJECTION! 💥 Shutting down...');
