@@ -39,16 +39,12 @@ https://smartbook.cyclic.app/
 
 
 ## Screenshots
-https://raw.githubusercontent.com/easyshopping1/starter-express-api/main/Untitled%20design%20(24).png
+![3](https://raw.githubusercontent.com/easyshopping1/starter-express-api/main/Untitled%20design%20(26).png)
+![4](https://raw.githubusercontent.com/easyshopping1/starter-express-api/main/Untitled%20design%20(27).png)
 ![10](https://raw.githubusercontent.com/easyshopping1/starter-express-api/main/Untitled%20design%20(24).png)
-![2](https://user-images.githubusercontent.com/106025042/212144922-bb1a4a51-f90e-40a3-8706-122dcaff0787.jpg)
-![3](https://user-images.githubusercontent.com/106025042/212144933-2e66373b-7b37-4637-a682-ceedfa5465e9.jpg)
-![4](https://user-images.githubusercontent.com/106025042/212144945-bc058a01-7053-4781-be9f-e7e99396e49e.jpg)
-![5](https://user-images.githubusercontent.com/106025042/212144951-0364c9d0-2a2f-489f-afed-b08279c4ba46.jpg)
-![6](https://user-images.githubusercontent.com/106025042/212144954-39fb37bb-adf8-4965-a0aa-5c0e0031de0a.jpg)
-![7](https://user-images.githubusercontent.com/106025042/212144971-a031039c-dc59-465a-9659-c10aeb8e8ce0.jpg)
-![8](https://user-images.githubusercontent.com/106025042/212144976-47ed76c2-1d39-4aeb-a15b-b09f8da544b4.jpg)
-![9](https://user-images.githubusercontent.com/106025042/212144988-5c55041a-9fbd-41df-a2f4-96cc9d45168c.jpg)
+![2](https://raw.githubusercontent.com/easyshopping1/starter-express-api/main/Untitled%20design%20(25).png)
+
+
 
 ## Installation
 
@@ -113,7 +109,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Authors
 
-- [@msobkyy](https://github.com/easyshopping1)
+(https://github.com/easyshopping1)
 
 
 ## 🚀 About Me
