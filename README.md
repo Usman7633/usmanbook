@@ -7,7 +7,7 @@ This project is a clone of the popular social media platform, Facebook, built us
 
 ## Demo
 
-https://backbook.vercel.app
+https://smartbook.cyclic.app/
 ## Features
 
 - ReactJS, NodeJS, ExpressJS, MongoDB.
